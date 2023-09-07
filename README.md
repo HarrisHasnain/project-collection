@@ -1,2 +1,2 @@
 # project-collection
-A handful of the programming projects I have worked on
+Some of the programming projects I have worked on that I would like to display!
