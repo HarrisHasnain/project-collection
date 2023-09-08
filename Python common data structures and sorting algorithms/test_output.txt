@@ -1,0 +1,1193 @@
+
+
+---------------------------------------
+
+
+Singly linked list testing...
+
+
+Non-empty singly linked list created from constructor:
+
+
+List length: 1
+Sorted: Yes
+Head value:  7
+Tail value:  7
+List contents:
+7
+
+
+Special case of non-empty singly linked list created from constructor, with node object inserted:
+
+
+List length: 1
+Sorted: Yes
+Head value:  7
+Tail value:  7
+List contents:
+7
+
+
+Empty singly linked list created from constructor:
+
+
+List length: 0
+Sorted: Yes
+List is empty.
+
+
+Singly linked list after adding some values:
+
+
+List length: 5
+Sorted: No
+Head value:  5
+Tail value:  2
+List contents:
+5
+4
+3
+1
+2
+
+
+Returned value when searching for value in the list:
+5
+
+Returned value when searching for value not in the list:
+None
+
+Returned IsSorted status of unsorted list:
+False
+
+Singly linked list after sorting:
+
+
+List length: 5
+Sorted: Yes
+Head value:  1
+Tail value:  5
+List contents:
+1
+2
+3
+4
+5
+
+
+
+Returned IsSorted status of sorted list:
+True
+
+Singly linked list after deleting head, tail and value in the middle:
+
+
+List length: 2
+Sorted: Yes
+Head value:  2
+Tail value:  4
+List contents:
+2
+4
+
+
+New unsorted list:
+
+
+List length: 5
+Sorted: No
+Head value:  5
+Tail value:  2
+List contents:
+5
+4
+1
+3
+2
+
+
+Singly linked list after using a sorted insert on an unsorted list:
+
+
+List length: 6
+Sorted: Yes
+Head value:  1
+Tail value:  6
+List contents:
+1
+2
+3
+4
+5
+6
+
+
+Singly linked list after using a sorted insert on a sorted list:
+
+
+List length: 7
+Sorted: Yes
+Head value:  1
+Tail value:  7
+List contents:
+1
+2
+3
+4
+5
+6
+7
+
+
+Singly linked list after clearing list:
+
+
+List length: 0
+Sorted: Yes
+List is empty.
+
+
+End of singly linked list testing...
+
+
+---------------------------------------
+
+
+---------------------------------------
+
+
+Doubly linked list testing...
+
+
+Non-empty Doubly linked list created from constructor:
+
+
+List length: 1
+Sorted: Yes
+Head value:  7
+Tail value:  7
+List contents:
+7
+
+
+Special case of non-empty doubly linked list created from constructor, with node object inserted:
+
+
+List length: 1
+Sorted: Yes
+Head value:  7
+Tail value:  7
+List contents:
+7
+
+
+Empty Doubly linked list created from constructor:
+
+
+List length: 0
+Sorted: Yes
+List is empty.
+
+
+Doubly linked list after adding some values:
+
+
+List length: 5
+Sorted: No
+Head value:  5
+Tail value:  2
+List contents:
+5
+4
+3
+1
+2
+
+
+Returned value when searching for value in the list:
+1
+
+Returned value when searching for value not in the list:
+None
+
+Returned IsSorted status of unsorted list:
+False
+
+Doubly linked list after sorting:
+
+
+List length: 5
+Sorted: Yes
+Head value:  1
+Tail value:  5
+List contents:
+1
+2
+3
+4
+5
+
+
+
+Returned IsSorted status of sorted list:
+True
+
+Doubly linked list after deleting head, tail and value in the middle:
+
+
+List length: 2
+Sorted: Yes
+Head value:  2
+Tail value:  4
+List contents:
+2
+4
+
+
+New unsorted list:
+
+
+List length: 5
+Sorted: No
+Head value:  5
+Tail value:  2
+List contents:
+5
+4
+1
+3
+2
+
+
+Doubly linked list after using a sorted insert on an unsorted list:
+
+
+List length: 6
+Sorted: Yes
+Head value:  1
+Tail value:  6
+List contents:
+1
+2
+3
+4
+5
+6
+
+
+Doubly linked list after using a sorted insert on a sorted list:
+
+
+List length: 7
+Sorted: Yes
+Head value:  1
+Tail value:  7
+List contents:
+1
+2
+3
+4
+5
+6
+7
+
+
+Doubly linked list after clearing list:
+
+
+List length: 0
+Sorted: Yes
+List is empty.
+
+
+End of Doubly linked list testing...
+
+
+---------------------------------------
+
+
+---------------------------------------
+
+
+Circular Singly linked list testing...
+
+
+Non-empty Circular Singly linked list created from constructor:
+
+
+List length: 1
+Sorted: Yes
+Head value:  7
+Tail value:  7
+List contents:
+7
+
+
+Special case of non-empty circular singly linked list created from constructor, with node object inserted:
+
+
+List length: 1
+Sorted: Yes
+Head value:  7
+Tail value:  7
+List contents:
+7
+
+
+Empty Circular Singly linked list created from constructor:
+
+
+List length: 0
+Sorted: Yes
+List is empty.
+
+
+Circular Singly linked list after adding some values:
+
+
+List length: 5
+Sorted: No
+Head value:  5
+Tail value:  2
+List contents:
+5
+4
+3
+1
+2
+
+
+Returned value when searching for value in the list:
+1
+
+Returned value when searching for value not in the list:
+None
+
+Returned IsSorted status of unsorted list:
+False
+
+Circular Singly linked list after sorting:
+
+
+List length: 5
+Sorted: Yes
+Head value:  1
+Tail value:  5
+List contents:
+1
+2
+3
+4
+5
+
+
+
+Returned IsSorted status of sorted list:
+True
+
+Circular Singly linked list after deleting head, tail and value in the middle:
+
+
+List length: 2
+Sorted: Yes
+Head value:  2
+Tail value:  4
+List contents:
+2
+4
+
+
+New unsorted list:
+
+
+List length: 5
+Sorted: No
+Head value:  5
+Tail value:  2
+List contents:
+5
+4
+1
+3
+2
+
+
+Circular Singly linked list after using a sorted insert on an unsorted list:
+
+
+List length: 6
+Sorted: Yes
+Head value:  1
+Tail value:  6
+List contents:
+1
+2
+3
+4
+5
+6
+
+
+Circular Singly linked list after using a sorted insert on a sorted list:
+
+
+List length: 7
+Sorted: Yes
+Head value:  1
+Tail value:  7
+List contents:
+1
+2
+3
+4
+5
+6
+7
+
+
+Circular Singly linked list after clearing list:
+
+
+List length: 0
+Sorted: Yes
+List is empty.
+
+
+End of Circular Singly linked list testing...
+
+
+---------------------------------------
+
+
+---------------------------------------
+
+
+Circular Doubly linked list testing...
+
+
+Non-empty Circular Doubly linked list created from constructor:
+
+
+List length: 1
+Sorted: Yes
+Head value:  7
+List contents:
+7
+
+
+Special case of non-empty circular doubly linked list created from constructor, with node object inserted:
+
+
+List length: 1
+Sorted: Yes
+Head value:  7
+List contents:
+7
+
+
+Empty Circular Doubly linked list created from constructor:
+
+
+List length: 0
+Sorted: Yes
+List is empty.
+
+
+Circular Doubly linked list after adding some values:
+
+
+List length: 5
+Sorted: No
+Head value:  5
+List contents:
+5
+4
+3
+1
+2
+
+
+Returned value when searching for value in the list:
+1
+
+Returned value when searching for value not in the list:
+None
+
+Returned IsSorted status of unsorted list:
+False
+
+Circular Doubly linked list after sorting:
+
+
+List length: 5
+Sorted: Yes
+Head value:  1
+List contents:
+1
+2
+3
+4
+5
+
+
+
+Returned IsSorted status of sorted list:
+True
+
+Circular Doubly linked list after deleting head, tail and value in the middle:
+
+
+List length: 2
+Sorted: Yes
+Head value:  2
+List contents:
+2
+4
+
+
+New unsorted list:
+
+
+List length: 5
+Sorted: No
+Head value:  5
+List contents:
+5
+4
+1
+3
+2
+
+
+Circular Doubly linked list after using a sorted insert on an unsorted list:
+
+
+List length: 6
+Sorted: Yes
+Head value:  1
+List contents:
+1
+2
+3
+4
+5
+6
+
+
+Circular Doubly linked list after using a sorted insert on a sorted list:
+
+
+List length: 7
+Sorted: Yes
+Head value:  1
+List contents:
+1
+2
+3
+4
+5
+6
+7
+
+
+Circular Doubly linked list after clearing list:
+
+
+List length: 0
+Sorted: Yes
+List is empty.
+
+
+End of Circular Doubly linked list testing...
+
+
+---------------------------------------
+
+
+---------------------------------------
+
+
+Stack linked list testing...
+
+
+Non-empty stack linked list created from constructor:
+
+
+List length: 1
+Sorted: Yes
+Head value:  7
+Tail value:  7
+List contents:
+7
+
+
+Special case of non-empty stack linked list created from constructor, with node object inserted:
+
+
+List length: 1
+Sorted: Yes
+Head value:  7
+Tail value:  7
+List contents:
+7
+
+
+Empty stack linked list created from constructor:
+
+
+List length: 0
+Sorted: Yes
+List is empty.
+
+
+Stack linked list after pushing some values:
+
+
+List length: 5
+Sorted: Yes
+Head value:  1
+Tail value:  5
+List contents:
+1
+2
+3
+4
+5
+
+
+Returned value when searching for value in the list:
+1
+
+Returned value when searching for value not in the list:
+None
+
+Returned IsSorted status of sorted stack:
+True
+
+Stack linked list after pushing a value to make it unsorted:
+
+
+List length: 6
+Sorted: No
+Head value:  6
+Tail value:  5
+List contents:
+6
+1
+2
+3
+4
+5
+
+
+
+Returned IsSorted status of unsorted stack:
+False
+
+Stack linked list after popping some values:
+
+
+List length: 4
+Sorted: Yes
+Head value:  2
+Tail value:  5
+List contents:
+2
+3
+4
+5
+
+
+Stack linked list after clearing:
+
+
+List length: 0
+Sorted: Yes
+List is empty.
+
+
+End of stack linked list testing...
+
+
+---------------------------------------
+
+
+---------------------------------------
+
+
+Queue linked list testing...
+
+
+Non-empty Queue linked list created from constructor:
+
+
+List length: 1
+Sorted: Yes
+Head value:  7
+Tail value:  7
+List contents:
+7
+
+
+Special case of non-empty queue linked list created from constructor, with node object inserted:
+
+
+List length: 1
+Sorted: Yes
+Head value:  7
+Tail value:  7
+List contents:
+7
+
+
+Empty Queue linked list created from constructor:
+
+
+List length: 0
+Sorted: Yes
+List is empty.
+
+
+Queue linked list after enqueueing some values:
+
+
+List length: 5
+Sorted: Yes
+Head value:  2
+Tail value:  6
+List contents:
+2
+3
+4
+5
+6
+
+
+Returned value when searching for value in the list:
+3
+
+Returned value when searching for value not in the list:
+None
+
+Returned IsSorted status of sorted Queue:
+True
+
+Queue linked list after enqueueing a value to make it unsorted:
+
+
+List length: 6
+Sorted: No
+Head value:  2
+Tail value:  1
+List contents:
+2
+3
+4
+5
+6
+1
+
+
+
+Returned IsSorted status of unsorted Queue:
+False
+
+Queue linked list after dequeueing some values:
+
+
+List length: 4
+Sorted: No
+Head value:  4
+Tail value:  1
+List contents:
+4
+5
+6
+1
+
+
+Queue linked list after clearing:
+
+
+List length: 0
+Sorted: Yes
+List is empty.
+
+
+End of Queue linked list testing...
+
+
+---------------------------------------
+
+
+---------------------------------------
+
+
+Binary search tree testing...
+
+
+BST after being constructed with a value:
+
+
+Tree in order:
+5 
+
+
+
+Tree in BF format:
+5 
+
+
+BST after being constructed empty:
+
+
+Tree in order:
+Tree is empty.
+
+
+
+
+Tree in BF format:
+Tree is empty.
+
+
+BST after being inserting some values:
+
+
+Tree in order:
+1 3 4 5 7 
+
+
+
+Tree in BF format:
+5 
+3 7 
+1 4 
+
+
+BST after being inserting some nodes:
+
+
+Tree in order:
+1 3 4 5 6 7 8 
+
+
+
+Tree in BF format:
+5 
+3 7 
+1 4 6 8 
+
+
+Returned node value after searching for node not in tree:
+None
+
+Returned node value after searching for node in tree:
+3
+
+Sub tree created from searched node, using node constructor:
+
+
+Tree in order:
+1 3 4 
+
+
+
+Tree in BF format:
+3 
+1 4 
+
+
+Sub tree after setting new root value:
+
+
+Tree in order:
+1 2 4 
+
+
+
+Tree in BF format:
+2 
+1 4 
+
+
+
+Returned value using getter for root of sub tree:
+2
+
+Sub tree after setting root to child node:
+
+
+Tree in order:
+1 
+
+
+
+Tree in BF format:
+1 
+
+
+
+Original tree shown again:
+
+
+Tree in order:
+1 2 4 5 6 7 8 
+
+
+
+Tree in BF format:
+5 
+2 7 
+1 4 6 8 
+
+
+Original tree after deleting a leaf node:
+
+
+Tree in order:
+1 2 5 6 7 8 
+
+
+
+Tree in BF format:
+5 
+2 7 
+1 6 8 
+
+
+Original tree after deleting root:
+
+
+Tree in order:
+1 2 6 7 8 
+
+
+
+Tree in BF format:
+6 
+2 7 
+1 8 
+
+
+Original tree after deleting mid level node:
+
+
+Tree in order:
+1 6 7 8 
+
+
+
+Tree in BF format:
+6 
+1 7 
+8 
+
+
+Original tree after clearing:
+
+
+Tree in order:
+Tree is empty.
+
+
+
+
+Tree in BF format:
+Tree is empty.
+
+
+End of binary search tree testing...
+
+
+---------------------------------------
+
+
+---------------------------------------
+
+
+AVL tree testing...
+
+
+AVL tree after being constructed with a value:
+
+
+Tree in order:
+5 
+
+
+
+Tree in BF format:
+5 
+
+
+AVL tree after being constructed empty:
+
+
+Tree in order:
+Tree is empty.
+
+
+
+
+Tree in BF format:
+Tree is empty.
+
+
+Balanced AVL tree after inserting some values in an unbalanced way:
+
+
+Tree in order:
+1 2 3 4 6 7 
+
+
+
+Tree in BF format:
+4 
+2 6 
+1 3 7 
+
+
+Balanced AVL tree after inserting some nodes in an unbalanced way:
+
+
+Tree in order:
+1 2 3 4 6 7 8 9 
+
+
+
+Tree in BF format:
+4 
+2 7 
+1 3 6 8 
+9 
+
+
+Returned node value after searching for node not in tree:
+None
+
+Returned node value after searching for node in tree:
+3
+
+Newly created unbalanced BST:
+
+
+Tree in order:
+1 2 4 
+
+
+
+Tree in BF format:
+1 
+2 
+4 
+
+
+
+AVL sub tree constructed from unbalanced BST:
+
+
+Tree in order:
+1 2 4 
+
+
+
+Tree in BF format:
+2 
+1 4 
+
+
+Sub tree after setting new root value:
+
+
+Tree in order:
+1 3 4 
+
+
+
+Tree in BF format:
+3 
+1 4 
+
+
+
+Returned value using getter for root of sub tree:
+3
+
+Another unbalanced BST:
+
+
+Tree in order:
+5 6 7 
+
+
+
+Tree in BF format:
+5 
+6 
+7 
+
+
+
+Balanced AVL sub tree after setting root to this unbalanced BST:
+
+
+Tree in order:
+5 6 7 
+
+
+
+Tree in BF format:
+6 
+5 7 
+
+
+
+Original tree shown again:
+
+
+Tree in order:
+1 2 3 4 6 7 8 9 
+
+
+
+Tree in BF format:
+4 
+2 7 
+1 3 6 8 
+9 
+
+
+Rebalanced original tree after deleting nodes in an unbalanced way:
+
+
+Tree in order:
+4 6 7 8 9 
+
+
+
+Tree in BF format:
+7 
+4 8 
+6 9 
+
+
+Original tree after clearing:
+
+
+Tree in order:
+Tree is empty.
+
+
+
+
+Tree in BF format:
+Tree is empty.
+
+
+End of AVL tree testing...
+
+
+---------------------------------------
+
+
