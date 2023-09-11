@@ -7,6 +7,6 @@ Each project starts with the name of the language(s) that it was created in, and
 
 Last updated: September 2023
 
-Check out my personal website! -> harrishasnain.com
+Check out my personal website! -> www.harrishasnain.com
 
 &copy; Harris Hasnain (harrishasnain12@gmail.com)
